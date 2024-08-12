@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @nphamvn
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning ASP.NET Core for Backend and Angular for Frontend.
 
 <!---
 nphamvn/nphamvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
